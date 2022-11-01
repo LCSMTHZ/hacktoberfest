@@ -1,8 +1,6 @@
 # Contributor Instructions
 
-Contribute to the issues that we have opened
-
-CPP and Python issues have been added.
+Contribute to our repository with some simple functions.
   
 Contribute and submit your pull requests.
 Will review and merge them.
